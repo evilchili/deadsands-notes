@@ -1,8 +1,7 @@
 ---
-# This is a required YAML-format metadata block. 
 title: A Test Note
 author: evilchili
-#date: 
+category: notes
 ---
 
 ## This is a test note

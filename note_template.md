@@ -1,8 +1,8 @@
 ---
-# This is a required YAML-format metadata block. 
 title: 
 author: 
-#date: 
+category: notes
 ---
-# markdown text goes here...
+
+...markdown text goes here...
 
