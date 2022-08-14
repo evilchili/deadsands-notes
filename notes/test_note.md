@@ -8,3 +8,4 @@ category: notes
 
 test test **test**.
 
+Testing an inline update.
